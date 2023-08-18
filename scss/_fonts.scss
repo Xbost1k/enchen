@@ -1,0 +1,37 @@
+@font-face {
+	font: {
+		family: 'Lilita One';
+		weight: 400;
+		style: normal;
+	}
+	src: url("../fonts/LilitaOne-Regular.ttf") format('truetype');
+}
+@font-face {
+	font-family: 'Inter';
+	font-weight: 700;
+	font-style: normal;
+	src: url('../fonts/Inter-Bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-weight: 400;
+	font-style: normal;
+	src: url('../fonts/Inter-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-weight: 600;
+	font-style: normal;
+	src: url('../fonts/Inter-SemiBold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-weight: 500;
+	font-style: normal;
+	src: url('../fonts/Inter-Medium.otf') format('opentype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
